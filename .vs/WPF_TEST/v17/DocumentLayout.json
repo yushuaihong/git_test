@@ -1,0 +1,52 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Code\\donet\\WPF_TEST\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D841BD8F-6C83-4AEF-BB8B-1200ACE75A19}|WPF_TEST\\WPF_TEST.csproj|e:\\code\\donet\\wpf_test\\wpf_test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{D841BD8F-6C83-4AEF-BB8B-1200ACE75A19}|WPF_TEST\\WPF_TEST.csproj|solutionrelative:wpf_test\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D841BD8F-6C83-4AEF-BB8B-1200ACE75A19}|WPF_TEST\\WPF_TEST.csproj|e:\\code\\donet\\wpf_test\\wpf_test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D841BD8F-6C83-4AEF-BB8B-1200ACE75A19}|WPF_TEST\\WPF_TEST.csproj|solutionrelative:wpf_test\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "E:\\Code\\donet\\WPF_TEST\\WPF_TEST\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "WPF_TEST\\MainWindow.xaml",
+              "ToolTip": "E:\\Code\\donet\\WPF_TEST\\WPF_TEST\\MainWindow.xaml",
+              "RelativeToolTip": "WPF_TEST\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-09T13:44:17.73Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "E:\\Code\\donet\\WPF_TEST\\WPF_TEST\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "WPF_TEST\\MainWindow.xaml.cs",
+              "ToolTip": "E:\\Code\\donet\\WPF_TEST\\WPF_TEST\\MainWindow.xaml.cs",
+              "RelativeToolTip": "WPF_TEST\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T13:44:15.503Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
