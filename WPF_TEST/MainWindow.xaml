@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:WPF_TEST"
         mc:Ignorable="d"
-        Title="MainWindow" Height="700" Width="650">
+        Title="MainWindow" Height="460" Width="650">
     <!--<Grid>-->
         <Canvas>
             <Button Canvas.Left="12" Canvas.Top="10">(10,10)</Button>
