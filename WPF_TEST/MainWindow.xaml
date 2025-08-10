@@ -6,17 +6,17 @@
         xmlns:local="clr-namespace:WPF_TEST"
         mc:Ignorable="d"
         Title="MainWindow_testd" Height="460" Width="566">
-    <Grid>
+    <!--<Grid>
         <Grid.ColumnDefinitions>
             <ColumnDefinition></ColumnDefinition>
             <ColumnDefinition Width="Auto"></ColumnDefinition>
             <ColumnDefinition></ColumnDefinition>
         </Grid.ColumnDefinitions>
-    </Grid>
+    </Grid>-->
 
     <!--<Grid>-->
         <Canvas>
-            <Button Canvas.Left="12" Canvas.Top="10">(10,10)</Button>
+            <Button x:Name="ccc"  Canvas.Left="12" Canvas.Top="10">(10,10)</Button>
             <Button Canvas.Left="120" Canvas.Top="30">(120,30)</Button>
             <Button Canvas.Left="60" Canvas.Top="80"
                     Width="50" Height="50">(60,80)</Button>
