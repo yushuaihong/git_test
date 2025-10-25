@@ -131,3 +131,6 @@ $RECYCLE.BIN/
 .DS_Store
 
 _NCrunch*
+
+.vsidx
+/app/ConsoleApp1/.vs/ConsoleApp1/FileContentIndex/95e16bba-4b27-45ac-a3be-d81d1207b238.vsidx
